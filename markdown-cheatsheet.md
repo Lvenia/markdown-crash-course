@@ -104,6 +104,6 @@ tables
 
 Task lists
 
-* [x] comleted task
-* [ ] uncomleted task
+* [x] completed task
+* [ ] uncompleted task
 --- 
